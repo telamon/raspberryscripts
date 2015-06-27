@@ -6,7 +6,7 @@ shield adapter I've desiged.
 
 
 
-|Arduino| Raspberry PI 2| RPI Descriptor|
+|ITDB28 Arduino shield| Raspberry PI 2| RPI Descriptor|
 |-------|----------------|---------------|
 |D0|21|BCM9 (MISO)|
 |D1|23|BCM11 (SCLK)|
