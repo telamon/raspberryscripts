@@ -1,4 +1,6 @@
 #!/bin/bash
+# This script starts capturing frames from an raspberry pi camera and
+# makes it available as an rtp media stream on port 8554
 
 RES="-fps 25"
 

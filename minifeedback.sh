@@ -1,4 +1,7 @@
 #!/bin/bash
+# This script is used to capture frames from a raspberry pi cam 
+# and stream it directly to an attached ITDB2.8 TFT module
+
 
 VO=""
 

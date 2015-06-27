@@ -1,4 +1,8 @@
 #!/bin/bash
+# This script is used to initialize the ITDB2.8 TFT module
+# The active pin-map is a custom one so make sure that it makes
+# sense for your current setup
+
 
 DC=3
 WR=2
